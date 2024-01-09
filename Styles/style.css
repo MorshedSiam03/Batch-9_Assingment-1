@@ -1,0 +1,541 @@
+body{
+    font-family: 'Merriweather', serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.banner{
+    background:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../Images/Banner\ Image.png);
+    margin: 0px 140px;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    
+}
+
+header p {
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+    padding-top: 177px;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: Merriweather;
+
+}
+
+header h3{
+    color: #fff;
+    font-size: 72px;
+    text-align: center;
+    padding: 0px 344px;
+    padding-bottom: 200px;
+    font-weight: 900;
+    line-height: 95px;
+    font-family: Merriweather;
+    margin-top: -15px;
+}
+
+.discount h1{
+    color: red;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+}
+
+.discount p{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 0px;
+
+}
+
+.discount h3{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 6px;
+    
+}
+
+.New_Year{
+    background-image: url(../Images/New\ Year\ Photo.png);
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: 48px 399px 120px;
+}
+
+.Party{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../Images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0; 
+    margin: 0 140px; 
+}
+
+
+
+.Party_text h1{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+padding: 126px 552px 24px 126px;
+margin: 0;
+
+
+}
+
+.Party_text p{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+padding: 0px 552px 48px 126px;
+margin: 0;
+}
+
+.Party_text h3{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding: 0px 1059px 0px 158px;
+margin: 0;
+}
+
+.Party_text{
+    background: url(../Images/Group\ 70.png);
+    background-repeat: no-repeat;
+    background-position: 900px 76px;
+    background-size: 270px;
+    
+}
+
+.Join{
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    width: 1320px;
+    height: 482px;
+    margin: 120px 140px 0px 140px;
+    flex-shrink: 0;
+    color: black;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; /* 175% */
+    text-transform: capitalize;
+    padding-top: 120px ;
+
+}
+
+.Join p2 label{
+    color: #F00;
+}
+.Join p1 label{
+    color: #F00;
+}
+.Join p3 label{
+    color: #F00;
+    padding-bottom: 48px;
+}
+
+
+.Join button{
+    border-radius: 8px;
+    background: red; 
+    border: 0;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 48px;
+}
+
+
+.Ellips_Banner{
+    margin: 120px 140px 0px;
+    display: flex;
+}
+
+.Ellips_text h3{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.Ellips_text h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.Ellips_text p{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+
+}
+
+.Ellips{
+    margin-left: 70px;
+    width: 403px;
+height: 403px;
+flex-shrink: 0;
+    border-radius: 403px;
+    border: 15px solid #F00;
+}
+
+.Elips_Image{
+    width: 364.844px;
+height: 364.844px;
+border-radius: 364.844px;
+border: 20px solid #FFF;
+background: url(../Images/Ellipse\ 1.png), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+
+}
+
+.Ellips_text_image{
+    margin-left: 108px;
+}
+
+.Ellips_text_image h1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Ellips_text_image p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+
+.Holiday_Sale{
+    margin: 120px 140px;
+}
+
+.Holiday_text h3{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.Holiday_text h1{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin: 20px auto;
+}
+
+.Holiday_text h1 label{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.Holiday_text p{
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 160% */
+    padding: 0 268px;
+}
+
+.Holiday_border{
+    display: flex;
+    margin-top: 453px;
+
+    
+}
+
+.Holiday_images{
+   display: flex;
+   position: absolute;
+   
+   
+
+}
+
+.gift{
+    padding-top: 80px;
+    margin-bottom: -300px;
+    margin-left: 30px;
+    
+    
+
+}
+
+.discount50{
+    margin-top: 100px;
+    margin-left: 780px;
+    position: absolute;
+    
+    
+    
+}
+
+.shopping{
+    
+    margin-left: 260px;
+    
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-areas: 'myArea myArea.''myArea myArea.';
+    grid-gap: 10px;
+    background-color: #fff;
+    padding: 5px;
+  }
+
+  .product_text h1{
+
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+  }
+
+  .product_text h3{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+  }
+
+
+  .product_text p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+
+  }
+
+  .grid{
+    margin: 0px 140px;
+  }
+
+.search-bar{
+    margin: 120px 140px 300px 140px;
+    align-items: center;
+}
+
+  .search{
+    width: 330px;
+    float: left;
+    display: flex;
+    align-items: center;
+    font-family: Inter;
+    
+  }
+
+  .srch{
+    margin-left: 336px;
+    width: 420px;
+    height: 60px;
+    flex-shrink: 0;
+    background: rgb(236, 235, 233); 
+    border: rgb(16, 13, 13);
+    margin-top: 18px;
+    color: #000; 
+    border-right: none; 
+    font-size: 16px;
+    float: left;
+    border-bottom-left-radius: 40px; 
+    border-top-left-radius: 40px;
+  }
+
+
+.subscribe{
+    width: 150px; 
+    height: 60px;
+    background: rgb(230, 0, 0);
+    border: none;
+    margin-top: 18px;
+    color: #fff; 
+    font-size: 15px;
+    border-bottom-right-radius:40px; 
+    border-top-right-radius:40px;
+}
+
+    
+.subscribe:focus{
+    outline: none;
+}
+    
+.srch:focus{
+    outline: none;
+}
+
+.mail img{
+    margin: 80px 585px 0px;
+}
+
+.mail h1{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.mail p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+.footer{
+    display: flex;
+    background-color: #000;
+    width: 1560px;
+height: 609px;
+flex-shrink: 0;
+}
+
+.left p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 166.667% */
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 60px;
+    display: flex;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 140px;
+    margin-right: 980px;
+
+}
+
+.left p1{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display: flex;
+margin-top: 400px;
+margin-left: 140px;
+
+}
+
+.right lebel1, lebel2{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+position: absolute;
+margin-top: 50px;
+margin-left: 650px;
+gap: 10px;
+
+
+}
+
+.right lebel3{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+display: flex;
+padding-top: 400px;
+margin-left: 850px;
+}
+
+.center{
+
+   position: absolute; 
+    margin-top: 229px;
+    margin-left: 700px;
+
+}
+/*End*/
